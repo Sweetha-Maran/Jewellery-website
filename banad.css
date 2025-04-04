@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(60, 131, 121);
+}
+.container {
+border: 1px solid grey;
+background-color: white;
+height: 450px;
+width: 900px;
+border: none;
+position: relative;
+left: 200px;
+top: 80px;
+}
+
+.container .page .img img{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+    top: 8px;
+    left: 10px;
+
+}
+.container .page .img h3{
+    position: relative;
+   font-size: 25px;
+  
+   bottom: 270px;
+    padding-left: 380px;
+
+}
+.container .page .img h4{
+    position: relative;
+   font-size: 30px;
+  
+   bottom: 240px;
+    padding-left: 380px;
+
+}
+.container .page .img h5{
+    position: relative;
+   font-size: 30px;
+  
+   bottom: 220px;
+    padding-left: 380px;
+
+}
+.container .page .img p{
+    position: relative;
+   font-size: 30px;
+  
+   bottom: 200px;
+    padding-left: 380px;
+
+}
+.container .page .img .hi {
+    border: 1px solid green;
+    height: 35px;
+    background-color: green;
+    border-radius: 30px;
+    width: 80px;
+    position: relative;
+    bottom: 180px;
+    left: 400px;
+}
+.container .page .img .hi h6{
+  color: white;
+  /* top: 80px; */
+  font-size: 30px;
+  left: 14px;
+position: relative;
+}
+.container .page .img .hi i{
+    position: relative;
+    bottom: 25px;
+    left: 54px;
+    color: white;
+}
+.container .page .img .helo{
+    position: relative;
+    border: 1px solid grey;
+    height: 30px;
+    left: 350px;
+    width: 200px;
+    bottom: 130px;
+}
+.container .page .img .helo i{
+    position:relative;
+font-size: 20px;
+top: 4px;
+left: 10px;
+}
+.container .page .img .helo h6{
+    position:relative;
+font-size: 20px;
+left: 40px;
+bottom:17px;
+/* left: 10px; */
+}
+.container .page .img .helo1 {
+    position: absolute;
+    border: 1px solid grey;
+    height: 30px;
+    left: 570px;
+    width: 200px;
+    bottom:50px;
+}
+.container .page .img .helo1 i{
+    position:relative;
+font-size: 20px;
+top: 4px;
+left: 10px;
+}
+.container .page .img .helo1 h6{
+    position:relative;
+font-size: 20px;
+left: 60px;
+bottom:17px;
+/* left: 10px; */
+}

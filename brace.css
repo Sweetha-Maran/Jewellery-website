@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container .page {
+    position: relative;
+    font-size: 30px;
+    text-align: center;
+    top: 10px;
+    display: flex;
+    gap: 20px;
+}
+
+.container .page .image {
+    border: 1px solid black;
+    width: 300px;
+    background-color: lavender;
+    height: 470px;
+    border: none;
+    left: 30px;
+    position: relative;
+}
+
+.container img {
+    position: relative;
+    width: 1340px;
+}
+
+.container .page .image img {
+    height: 270px;
+    width: 250px;
+    border-radius: 200px;
+    right: 5px;
+    left: 1px;
+    /* right: 530px; */
+    top: 9px;
+    position: relative;
+}
+
+.container .page i {
+    position: relative;
+    color: darkgoldenrod;
+    font-size: 20px;
+    right: 30px;
+}
+
+.container .page h3 span {
+    font-size: 20px;
+    color: black;
+}
+
+.container .page h4 {
+    font-size: 18px;
+    color: black;
+    position: relative;
+    left: 50px;
+    bottom: 13px;
+}
+
+.container .page h3 {
+    font-size: 25px;
+    top: 10px;
+    right: 45px;
+    position: relative;
+    color: black;
+}
+
+.container .page .helo {
+    border: 1px solid grey;
+    font-size: 18px;
+    height: 20px;
+    width: 230px;
+    color: black;
+    /* top: 30px; */
+    left: 40px;
+    border: none;
+    background-color: rgb(214, 221, 240);
+    position: relative;
+}
+
+.container .page button {
+    height: 35px;
+    background-color: rgb(58, 122, 117);
+    width: 120px;
+    color: white;
+    font-size: 16px;
+    top: 8px;
+    position: relative;
+    border: none;
+
+}
+
+.container .page button:hover {
+    background-color: grey;
+    color: white;
+    font-size: 22px;
+}
+
+.container .page .haai {
+    position: relative;
+    top: 480px;
+    right: 1160px;
+}
+
+.container .page1 {
+    display: flex;
+    gap: 20px;
+    top: 20px;
+    position: relative;
+}
+
+.container .image {
+    border: 1px solid grey;
+    font-size: 18px;
+    height: 450px;
+    width: 300px;
+    color: black;
+    top: 20px;
+    /* top: 30px; */
+    left: 30px;
+
+    border: none;
+    background: transparent;
+    background-color: rgb(214, 221, 240);
+    position: relative;
+}
+
+.container .page1 img {
+    height: 270px;
+    width: 250px;
+    border-radius: 200px;
+    right: 5px;
+    left: 24px;
+    /* right: 530px; */
+    top: 9px;
+    position: relative;
+}
+
+.container .page1 .image p {
+    position: relative;
+    left: 58px;
+    font-size: 30px;
+
+}
+
+.container .page1 i {
+    position: relative;
+    left: 75px;
+    font-size: 20px;
+    top: 5px;
+    color: darkgoldenrod;
+}
+
+.container .page1 h3 span {
+    font-size: 20px;
+    color: black;
+    left: 0px;
+    position: relative;
+}
+
+.container .page1 h4 {
+    font-size: 18px;
+    color: black;
+    position: relative;
+    padding-left: 140px;
+    bottom: 13px;
+}
+
+.container .page1 h3 {
+    font-size: 25px;
+    top: 10px;
+    left: 50px;
+    position: relative;
+    color: black;
+}
+
+.container .page1 .helo {
+    border: 1px solid grey;
+    font-size: 18px;
+    height: 20px;
+    width: 230px;
+    color: black;
+    /* top: 30px; */
+    left: 40px;
+    border: none;
+
+
+    background-color: rgb(238, 238, 255);
+    position: relative;
+}
+
+.container .page1 button {
+    height: 35px;
+    background-color: rgb(58, 122, 117);
+    width: 120px;
+    color: white;
+    font-size: 16px;
+    /* top: 8px; */
+    left: 50px;
+    position: relative;
+    border: none;
+
+}
+
+.container .page1 button:hover {
+    background-color: grey;
+    color: white;
+    font-size: 22px;
+}
+
+.container footer {
+    border: 1px solid black;
+    position: relative;
+    border: none;
+    top: 50px;
+    background-color: rgb(243, 243, 243);
+    height: 200px;
+}
+
+.container footer p {
+
+    position: relative;
+    color: black;
+    font-size: 20px;
+    right: 40px;
+    padding: 30px 300px 0px 440px;
+}
+
+.container footer i {
+    color: black;
+    position: relative;
+    left: 550px;
+    padding-left: 10px;
+    top: 20px;
+    font-size: 35px;
+}
+
+.container footer .helo {
+    border-bottom: 1px solid grey;
+    position: relative;
+
+
+}
+
+.container footer .helo p {
+
+    position: relative;
+    top: 30px;
+    text-align: center;
+}

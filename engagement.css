@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    gap: 20px;
+}
+.container .images {
+    border: 1px solid black;
+    height: 320px;
+    width: 320px;
+    border: none;
+    position: relative;
+   top: 30px;
+   
+   border-radius: 30px;
+   /* background-color: azure; */
+   left: 120px;
+}
+.container .images img{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    border-radius: 160px;
+    top: 8px;
+left: 10px;
+}
+
+.container .hi  {
+    position: relative;
+    display: flex;
+    top: 320px;
+   right: 740px;
+}

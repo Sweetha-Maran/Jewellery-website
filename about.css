@@ -1,0 +1,98 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+
+}
+.container .page{
+  background-image: url(./im/38/golden-wedding-rings_182029-412.avif);
+  height: 500px;
+background-position: center;
+background-size: cover;
+}
+
+.container .page  h4{
+    position: absolute;
+    bottom:170px;
+    color: teal;
+    /* left: 800px; */
+    
+    font-size: 80px;
+}
+
+
+.container .page1 .img img{
+  height: 400px;
+  position: absolute;
+  width: 400px;
+ top: 540px;
+
+  border-radius: 200px;
+}
+.container .page1 .img p{
+  font-size: 18px;
+  position: absolute;
+ padding: 80px 30px 400px 400px;
+ top: 540px;
+ word-spacing: 10px;
+left: 80px;
+text-align: justify;
+  border-radius: 200px;
+}
+body{
+  background-color:rgb(177, 197, 197);
+}
+.container .page2 .img img{
+  height: 400px;
+  position: absolute;
+  width: 400px;
+ top: 940px;
+left: 900px;
+  border-radius: 200px;
+}
+.container .page2 .img p{
+  font-size: 18px;
+  position: absolute;
+ padding: 30px 490px 0px 0px;
+ top: 960px;
+ 
+text-align: justify;
+  border-radius: 200px;
+}
+.container footer {
+  border: 1px solid black;
+  position: relative;
+  border: none;
+  top: 880px;
+  background-color: grey;
+  height: 200px;
+}
+
+.container footer p {
+
+  position: relative;
+  color: black;
+  font-size: 20px;
+  right: 40px;
+  padding: 30px 300px 0px 440px;
+}
+
+.container footer i {
+  color: black;
+  position: relative;
+  left: 550px;
+  padding-left: 10px;
+  top: 20px;
+  font-size: 35px;
+}
+
+.container footer .helo {
+  border-bottom: 1px solid grey;
+  position: relative;
+}
+.container footer .helo p {
+
+  position: relative;
+  top: 30px;
+  text-align: center;
+}
